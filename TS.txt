@@ -1,0 +1,7 @@
+  col1_f col2_s col3_d col4_dt col5_at col6_gt col7_ndt
+1     T1   AUS1   HUS1    None    None    None     None
+2     T2   DAL1   HUS2    None    None    None     None
+3     T3   DAL2   HUS3    None    None    None     None
+4     T4   HUS1   AUS1    None    None    None     None
+5     T5   HUS2   DAL1    None    None    None     None
+6     T6   HUS3   DAL2    None    None    None     None
